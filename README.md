@@ -1,2 +1,2 @@
-[Go to app](src/react.html)
+[Go to app](react.html)
 
